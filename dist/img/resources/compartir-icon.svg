@@ -1,0 +1,7 @@
+<svg id="icon_Share" data-name="icon Share" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle id="Elipse_191" data-name="Elipse 191" cx="16" cy="16" r="16" fill="#0e3269"/>
+  <g id="share-24px_3_" data-name="share-24px (3)" transform="translate(6 7)">
+    <path id="Trazado_7762" data-name="Trazado 7762" d="M0,0H18V18H0Z" fill="none"/>
+    <path id="Trazado_7763" data-name="Trazado 7763" d="M13,11.839a1.894,1.894,0,0,0-1.307.538L6.94,9.477A2.392,2.392,0,0,0,7,8.988,2.392,2.392,0,0,0,6.94,8.5l4.7-2.872A1.943,1.943,0,0,0,13,6.193a2.047,2.047,0,0,0,2-2.1,2,2,0,1,0-4,0,2.392,2.392,0,0,0,.06.489L6.36,7.458A1.943,1.943,0,0,0,5,6.892a2.047,2.047,0,0,0-2,2.1,2.047,2.047,0,0,0,2,2.1,1.943,1.943,0,0,0,1.36-.566l4.747,2.907a2.062,2.062,0,0,0-.053.454A1.949,1.949,0,1,0,13,11.839Z" fill="#fff"/>
+  </g>
+</svg>

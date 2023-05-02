@@ -1,0 +1,7 @@
+<svg id="icon_Like" data-name="icon Like" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle id="Elipse_160" data-name="Elipse 160" cx="16" cy="16" r="16" fill="#0e3269"/>
+  <g id="thumb_up_alt-24px" transform="translate(8 7)">
+    <path id="Trazado_2721" data-name="Trazado 2721" d="M18,18H0V0H18Z" fill="none"/>
+    <path id="Trazado_2722" data-name="Trazado 2722" d="M2,15.5H3.5a.752.752,0,0,0,.75-.75V8a.752.752,0,0,0-.75-.75H2Zm14.872-5.34A1.485,1.485,0,0,0,17,9.56V8.75a1.5,1.5,0,0,0-1.5-1.5H11.375l.69-3.488a.752.752,0,0,0-.06-.495,3.6,3.6,0,0,0-.66-.915L11,2,6.193,6.807A1.5,1.5,0,0,0,5.75,7.872v5.88A1.756,1.756,0,0,0,7.505,15.5h6.083a1.511,1.511,0,0,0,1.29-.727l1.995-4.613Z" transform="translate(-0.5 -0.5)" fill="#fff"/>
+  </g>
+</svg>
